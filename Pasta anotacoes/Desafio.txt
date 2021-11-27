@@ -1,0 +1,1 @@
+Criação de uma arquivo txt para realização do primeiro commit relacionado ao desafio do primeiro repositório da Digital Innovation One.
